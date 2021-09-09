@@ -1,0 +1,121 @@
+.container{
+    
+}
+
+.navbar{
+    background-color: white;
+}
+
+.nav-link{
+    color: dimgray;
+    margin: 0px 10px;
+    font-weight: 500;
+}
+
+p{
+    color: dimgray;
+    padding-bottom: 10px;
+}
+
+.buy{
+    background-color: black;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: none;
+}
+
+.bg-img{
+    background-image: url("images/bg-1.png");
+    background-size: 60px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.back-img{
+    background-image: url("images/bg-2.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    margin-bottom: 100px;
+}
+
+.carousel-indicators .active{
+    background-color: orange;
+    border: none;
+    width: 20px;
+    height: 5px;
+    margin: 0px 3px;
+    border-radius: 4px;
+}
+
+.carousel-indicators button{
+    background-color: gray;
+    border: none;
+    width: 10px;
+    height: 5px;
+    margin: 0px 3px;
+    border-radius: 4px;
+}
+
+h6{
+    color: orange;
+}
+
+.card{
+    border: none;
+    box-shadow: 3px 3px 7px lightgrey;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card img{
+    margin: 20% 15%;
+    width: 70%;
+}
+
+.products, .categories{
+    margin-bottom: 100px;;
+}
+
+.products p{
+    text-align: center;
+}
+
+.categories h3{
+    text-align: center;
+}
+
+.bar{
+    width: 100px;
+    height: 6px;
+    margin: 0 auto;
+    border-radius: 3px;
+    background-color: orange;
+}
+
+.pics{
+    box-shadow: 10px 10px 20px lightgrey;
+    width: 100%;
+    border-radius: 10px;
+    border-bottom-left-radius: 35px;
+}
+
+.pics2{
+    box-shadow: 10px 10px 20px lightgrey;
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 35px;
+}
+
+.pics img, .pics2 img{
+    padding: 25% 25% 10% 25%;
+}
+
+.pics3 img{
+    width: 100%;
+}
+
+.row{
+    padding-top: 75px;
+}
